@@ -5,13 +5,8 @@ Welcome to the Web Application Security Learning Repository! This repository is 
 
 ## Table of Contents
 
-- [Introduction](#introduction)
-- [Getting Started](#getting-started)
-- [Vulnerable Web Applications](#vulnerable-web-applications)
-- [OWASP Top Ten Labs](#owasp-top-ten-labs)
-- [Custom Labs](#custom-labs)
-- [Contributing](#contributing)
-- [License](#license)
+- OWASP Top Ten for Web Application Security 
+- OWASP Top Ten for API Security
 
 ## Introduction
 
