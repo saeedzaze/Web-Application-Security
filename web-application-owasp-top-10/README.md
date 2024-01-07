@@ -25,7 +25,7 @@ This repository provides simple, vulnerable web application labs for each of the
 
 ### Lab Structure
 
-- **Lab 1:** [Broken Access Control](/A01-Broken-Access-Control/README.md)
+- **Lab 1:** [Broken Access Control](A01-Broken-Access-Control/README.md)
 
 ## Getting Started
 
