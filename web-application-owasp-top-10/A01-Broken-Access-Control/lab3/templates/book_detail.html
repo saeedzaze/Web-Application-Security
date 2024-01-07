@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Book Detail</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Book Detail</h1>
+        <p>
+            <strong>Title:</strong> {{ book['title'] }}<br>
+            <strong>Author:</strong> {{ book['author'] }}<br>
+            <strong>Description:</strong> {{ book['description'] }}
+        </p>
+        <p class="disclaimer">
+            Note: Users do not have permission to add or delete books. This page is for viewing purposes only.
+        </p>
+        <a href="/" class="back-link">Back to Book List</a>
+    </div>
+</body>
+</html>
