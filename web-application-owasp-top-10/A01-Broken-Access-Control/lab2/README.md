@@ -5,6 +5,7 @@ This is a simple web application designed for learning and practicing web applic
 ## Vulnerability Description
 
 The main vulnerability in this lab is Permitting viewing or editing someone else's account, by providing its unique identifier (insecure direct object references).
+we have three users, "user1:password1"
 
 ## Installation
 
