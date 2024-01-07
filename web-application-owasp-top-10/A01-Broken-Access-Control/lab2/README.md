@@ -12,7 +12,7 @@ we have three users, "user1:password1"
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/yourusername/web-app-security-lab.git
+    git clone https://github.com/saeedzaze/Web-Application-Security.git
     ```
 
 2. Navigate to the project directory:
