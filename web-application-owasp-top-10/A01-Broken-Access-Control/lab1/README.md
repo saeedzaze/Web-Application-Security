@@ -5,6 +5,7 @@ This is a simple web application designed for learning and practicing web applic
 ## Vulnerability Description
 
 The main vulnerability in this lab is Violation of the principle of least privilege or deny by default, where access should only be granted for particular capabilities, roles, or users, but is available to anyone.
+we have two users, "admin:admin_password" and "user:user_password"
 
 ## Installation
 
